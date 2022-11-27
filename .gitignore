@@ -129,3 +129,10 @@ dmypy.json
 .pyre/
 
 .vagrant/
+
+# Local .terraform directories
+**/.terraform/*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
